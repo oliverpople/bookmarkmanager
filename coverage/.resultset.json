@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/timjones/Projects/Bookmarks/bookmark_manager_Aram/spec/features/creating_links_spec.rb": [
+      "/Users/aramsimonian/week4/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         1,
         1,
@@ -9,7 +9,7 @@
         null,
         null
       ],
-      "/Users/timjones/Projects/Bookmarks/bookmark_manager_Aram/spec/features/homepage_links_spec.rb": [
+      "/Users/aramsimonian/week4/bookmark_manager/spec/features/homepage_links_spec.rb": [
         null,
         1,
         1,
@@ -24,6 +24,6 @@
         null
       ]
     },
-    "timestamp": 1508338361
+    "timestamp": 1508340293
   }
 }
