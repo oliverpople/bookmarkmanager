@@ -1,7 +1,21 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/aramsimonian/week4/bookmark_manager/spec/features/homepage_links_spec.rb": [
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null
+      ]
     },
-    "timestamp": 1508166049
+    "timestamp": 1508319798
   }
 }
