@@ -5,6 +5,7 @@ ruby '2.4.2'
 # gem "rails"
 gem 'data_mapper'
 gem 'dm-postgres-adapter'
+gem 'sinatra'
 
 group :test do
   gem 'capybara'
